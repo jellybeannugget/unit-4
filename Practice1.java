@@ -6,7 +6,7 @@ public class Practice1{
         double avg = 0;
         int io = 0;
         int [] primeNums = {2, 3, 5, 7, 11, 13, 17, 19};
-       int [6] testGrades = {99, 98, 88, 77, 85, 90};
+       int [] testGrades = {99, 98, 88, 77, 85, 90};
         System.out.println ("Array length: " + primeNums.length);
         String [] friends = {"Suhaib", "Nkosi", "Muhammed"};
       
